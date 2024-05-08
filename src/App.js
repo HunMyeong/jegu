@@ -4,7 +4,7 @@ function App() {
   return (
 
     <div className="App">
-      박훈명
+      hello ハヤカワです
     </div>
   );
 }
